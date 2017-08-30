@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	
- double p, t, r, si;
+ float p, t, r, si;
  cout<< "Enter principal, time and rate :";
  
  cin >>p>>t>>r;
