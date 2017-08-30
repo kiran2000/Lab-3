@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	
- double s1, s2, s3, s4, s5, total, avg, percentage;
+ float s1, s2, s3, s4, s5, total, avg, percentage;
  cout<< "Enter marks of five subjects :";
  
  cin >>s1>>s2>>s3>>s4>>s5;
