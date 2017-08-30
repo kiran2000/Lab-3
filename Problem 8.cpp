@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	
- double b,h,a;
+ float b,h,a;
  cout<< "Enter base and height of a triangle :";
  
  cin >>b>>h;
