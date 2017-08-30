@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	
- double x, y, p;
+ float x, y, p;
  
  cin >> x >>y;
  p= pow(x,y);
