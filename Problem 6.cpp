@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	
- double x, sq;
+ float x, sq;
  
  cin >> x;
  sq= pow(x,0.5);
