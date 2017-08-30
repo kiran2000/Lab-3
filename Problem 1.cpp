@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	
- double cm, m, km;
+ float cm, m, km;
  
  cout << "Enter length in cm :" << endl;
  cin >> cm;
