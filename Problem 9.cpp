@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	
- double l,a;
+ float l,a;
  cout<< "Enter length of the side of a triangle :";
  
  cin >>l;
